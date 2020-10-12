@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on React.js
+- 🔭 I’m currently following The Odin Project Curriculum for WebDev
 - 🌱 I’m currently improving My Web Development Stack.
 - 🤔 I’m looking for help with thinking about thinking. 
-- 💬 Ask me about MERN Stack Web Development.
-- 📫 How to reach me: @twitter: vishwajeetraj323
-- ⚡ Fun fact: I am still alive. 🤷‍
+- 💬 Ask me about how to start coding
+- 📫 How to reach me: @instagram: sidd_o.o/
+- ⚡ Fun fact: I am finding a newer self through coding 🤷‍
 
 <br />
 
@@ -35,10 +35,10 @@
 
 <br />
 <br />
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vishwajeetraj11&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sidd-oo&show_icons=true&hide_border=true" />
 
 
-[twitter]: https://twitter.com/Vishwajeet323
-[instagram]: https://www.instagram.com/vishwajeetraj11/
-[linkedin]: https://www.linkedin.com/in/vishwajeetraj11/
+[twitter]: https://twitter.com/sidd_oo
+[instagram]: https://www.instagram.com/sidd_o.o/
+[linkedin]: https://www.linkedin.com/in/siddharthsahoo08/
 
